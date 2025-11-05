@@ -1,1 +1,3 @@
-# GXTEAM-Dataset
+# Multimodal Dataset of Traditional Ethnic-Style Architecture in Guangxi (GXTEAM Dataset)
+
+The GXTEAM-Dataset developed in this study employs video as its core component, comprehensively documenting multi-ethnic architectural styles across Guangxi. Through a multi-dimensional classification framework, it achieves precise stylistic characterization. The innovations of this dataset lie in three key aspects: it pioneers video-dominated documentation of Guangxi's ethnic architecture, addressing a critical data gap in this field; establishes a multi-dimensional classification framework that clarifies subtle distinctions between different ethnic and regional architectural styles; and enables the integration of video data with cultural knowledge, providing robust data support for the dynamic preservation of cultural heritage.
